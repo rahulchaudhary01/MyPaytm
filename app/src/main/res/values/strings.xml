@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyPaytm</string>
+    <string name="title_activity_paytm_main">PaytmMain</string>
+</resources>
